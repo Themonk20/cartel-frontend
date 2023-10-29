@@ -98,12 +98,7 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 ## DataBase Design (RDBMS)
 
-mermaid
-graph LR
-A[Users] ---> B[Posts]---> E[Features]
-A-->C[Booking]--->D[Venues]
 
-
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNVOOMjU=/?moveToViewport=-1909,-610,2783,1422&embedId=200305332913" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+[Miro](https://miro.com/app/board/uXjVNVOOMjU=/?share_link_id=776319495247)
 
 
